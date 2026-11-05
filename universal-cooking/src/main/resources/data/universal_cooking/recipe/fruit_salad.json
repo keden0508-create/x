@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:bowl", "minecraft:apple", "minecraft:sweet_berries", "minecraft:melon_slice"],
+  "result": { "id": "universal_cooking:fruit_salad", "count": 1 }
+}

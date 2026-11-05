@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " R ",
+    "RDR"
+  ],
+  "key": {
+    "R": "universal_cooking:cooked_rice",
+    "D": "minecraft:dried_kelp"
+  },
+  "result": {
+    "id": "universal_cooking:onigiri",
+    "count": 2
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:black_dye",
+    "minecraft:wheat_seeds"
+  ],
+  "result": {
+    "id": "universal_cooking:pepper",
+    "count": 2
+  }
+}

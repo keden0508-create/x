@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "universal_cooking:block/rice_stage0"
+    },
+    "age=1": {
+      "model": "universal_cooking:block/rice_stage0"
+    },
+    "age=2": {
+      "model": "universal_cooking:block/rice_stage1"
+    },
+    "age=3": {
+      "model": "universal_cooking:block/rice_stage1"
+    },
+    "age=4": {
+      "model": "universal_cooking:block/rice_stage2"
+    },
+    "age=5": {
+      "model": "universal_cooking:block/rice_stage2"
+    },
+    "age=6": {
+      "model": "universal_cooking:block/rice_stage2"
+    },
+    "age=7": {
+      "model": "universal_cooking:block/rice_stage3"
+    }
+  }
+}

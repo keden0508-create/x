@@ -1,0 +1,19 @@
+{
+  "item.universal_cooking.fried_egg": "달걀프라이",
+  "item.universal_cooking.egg_sandwich": "달걀 샌드위치",
+  "item.universal_cooking.hamburger": "햄버거",
+  "item.universal_cooking.fruit_salad": "과일 샐러드",
+  "item.universal_cooking.honey_toast": "꿀 토스트",
+  "item.universal_cooking.fish_skewer": "생선 꼬치",
+  "item.universal_cooking.cheese": "치즈",
+  "item.universal_cooking.boiled_egg": "삶은 계란",
+  "item.universal_cooking.cooked_rice": "밥",
+  "item.universal_cooking.onigiri": "삼각김밥",
+  "item.universal_cooking.cup_ramen": "컵라면",
+  "item.universal_cooking.cheese_tteokbokki": "치즈떡볶이",
+  "item.universal_cooking.salt": "소금",
+  "item.universal_cooking.pepper": "후추",
+  "item.universal_cooking.rice_seeds": "볍씨",
+  "item.universal_cooking.rice": "쌀",
+  "block.universal_cooking.rice_crop": "벼"
+}

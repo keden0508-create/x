@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["B", "E", "B"],
+  "key": { "B": "minecraft:bread", "E": "universal_cooking:fried_egg" },
+  "result": { "id": "universal_cooking:egg_sandwich", "count": 1 }
+}

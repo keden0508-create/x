@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:stick",
+    "minecraft:cooked_cod",
+    "minecraft:cooked_salmon",
+    "universal_cooking:salt"
+  ],
+  "result": {
+    "id": "universal_cooking:fish_skewer",
+    "count": 1
+  }
+}

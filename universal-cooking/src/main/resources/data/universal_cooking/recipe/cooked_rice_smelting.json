@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": "universal_cooking:rice",
+  "result": {
+    "id": "universal_cooking:cooked_rice"
+  },
+  "experience": 0.2,
+  "cookingtime": 200
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "universal_cooking",
+  "version": "${version}",
+  "name": "Universal Cooking",
+  "description": "요리 모드: 새로운 음식 아이템과 레시피를 추가합니다.",
+  "authors": [],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.universalcooking.UniversalCooking"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

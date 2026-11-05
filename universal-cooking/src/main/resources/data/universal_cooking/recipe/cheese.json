@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:milk_bucket",
+    "universal_cooking:salt"
+  ],
+  "result": {
+    "id": "universal_cooking:cheese",
+    "count": 3
+  }
+}

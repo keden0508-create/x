@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:wheat",
+    "minecraft:wheat",
+    "universal_cooking:boiled_egg"
+  ],
+  "result": {
+    "id": "universal_cooking:cup_ramen",
+    "count": 1
+  }
+}

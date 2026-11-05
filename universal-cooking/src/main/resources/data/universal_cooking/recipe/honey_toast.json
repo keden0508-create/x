@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": ["minecraft:bread", "minecraft:honey_bottle"],
+  "result": { "id": "universal_cooking:honey_toast", "count": 1 }
+}
